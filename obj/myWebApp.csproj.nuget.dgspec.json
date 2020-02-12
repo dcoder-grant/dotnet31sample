@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dgrant/Documents/POCs/DotNet3.1/myWebApp/myWebApp.csproj": {}
+  },
+  "projects": {
+    "/home/dgrant/Documents/POCs/DotNet3.1/myWebApp/myWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dgrant/Documents/POCs/DotNet3.1/myWebApp/myWebApp.csproj",
+        "projectName": "myWebApp",
+        "projectPath": "/home/dgrant/Documents/POCs/DotNet3.1/myWebApp/myWebApp.csproj",
+        "packagesPath": "/home/dgrant/.nuget/packages/",
+        "outputPath": "/home/dgrant/Documents/POCs/DotNet3.1/myWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dgrant/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dgrant/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
